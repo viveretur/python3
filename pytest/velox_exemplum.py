@@ -9,7 +9,7 @@ def incremento(a):
     """
     return a + 1
 
-def test_incremento():
+def tento_incremento():
     """
     Hoc est deficere.
     """
