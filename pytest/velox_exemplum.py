@@ -1,5 +1,5 @@
 """
-Viveretur : velox_exemplum.py
+viveretur : velox_exemplum.py
 Ab https://docs.pytest.org/en/stable/
 """
 
